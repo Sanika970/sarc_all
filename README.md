@@ -6,7 +6,7 @@ This repository contains 2 projects built for the SARC assignment. Due to file s
    visually appealing images, bg-video.
    1st the animation apperas just after loading the page , in slytherin page : there is text animation made with css. there are 2 cards with motion animation the right side of which flips on hover.
    Griffindor page: image carousel with smooth transition 
-   Hufflepuff: cards with 180 flip of motion 
+   Hufflepuff: cards with 180 flip of motion with a magic spark on click backside.
    Ravenclaw: coudnt complete :(
 
 proj2 :
