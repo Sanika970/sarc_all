@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.all {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+.bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+}
+
+.aa{
+  text-align:center;
+  padding: 50px;
+  color:rgba(209, 240, 250,0.8);
+}
+
+.card {
+  background-color: rgba(209, 240, 250, 0.3) !important;
+  width: 80%; 
+  margin: 0 auto;
+  border: none;
+  backdrop-filter: blur(6px); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); 
+  border-radius: 12px;
+  padding: 20px;
+}
+.list{
+  background-color:  rgba(209, 240, 250, 0.3);
+  /* padding:2px; */
+}
+
+.task{
+  background-color: rgba(235, 90, 32, 0.7);
+  border: none;
+  border-radius: 5px;
+  height:40px;
+
+}
+
+
+
+
+
